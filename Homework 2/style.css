@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.block{
+    position: absolute; left: 100px; right: 150px;
+
+}
+
+                           /*HEADER*/
+
+.logo{
+    position: relative; top: 45px; left: 163px;
+}
+
+.menu ul{
+    margin-left: 18px;
+    margin-top: 20px;
+}
+
+.menu a{
+    text-decoration: none;
+}
+
+.menu a:visited{
+    color: #ffffff;
+}
+
+.menu li{
+    list-style-type: none;
+    float: left;
+    position: relative; left: 143px; top: 60px;
+    padding-top: 10px;
+    font-size: 15px;
+    font-family: Microsoft YaHei;
+    color: #ffffff;
+}
+
+.golovna{
+    background-color: #4b4a4a;
+    padding-left: 20px;
+    width: 125px;
+    height: 35px;
+}
+
+.tovary{
+    background-color: #454545;
+    text-decoration: none;
+    text-align: center;
+    border-left: 1px solid #838383;
+    border-right: 1px solid #838383;
+    height: 35px;
+    width: 103px;
+}
+
+.pro_nas{
+    background-color: #4b4a4a;
+    height: 35px;
+    width: 189px;
+    text-align: center;
+}
+
+.kontakty{
+    background-color: #4b4a4a;
+    height: 35px;
+    width: 510px;
+}
+
+                                  /*SIDEBAR*/
+
+.Sidebar{
+    position: absolute; top: 210px; left: 158px;
+}
+
+tr, td{
+    border: 1px solid #c8c8c8;
+    height: 40px;
+    padding-left: 23px;
+    font-size: 13.33px;
+    font-family: Microsoft YaHei;
+    color: #656363;
+}
+
+.telephones td:hover{
+    padding-left: 36px;
+    background-color: #f9f9f9;
+}
+
+.telephones a{
+    display: block;
+    text-decoration: none;
+}
+
+.telephones a:visited{
+    color: #2c2c2c;
+}
+
+                                   /*Content*/
+
+.bicycle{
+    position: absolute; top: 212px; right: 153px;
+    border: 1px solid black;
+    padding: 50px 100px;
+}
+
+.Content p{
+    position: absolute; top: 660px; left: 410px; right: 157px;
+    font-size: 13.33px;
+    font-family: Microsoft YaHei;
+    color: #656363;
+}
+
+                                    /*Footer*/
+
+.Footer{
+    position: absolute;
+}
+
+.Footer .menu2 li{
+    list-style-type: none;
+    float: left;
+    position: relative; left: 158px; top: 800px;
+    padding-top: 10px;
+    font-size: 14px;
+    font-family: Microsoft YaHei;
+    color: #2c2c2c;
+    background-color: #e1e1e1;
+}
+
+.tovary2{
+    text-align: center;
+    height: 35px;
+    width: 103px;
+}
+
+.tovary2 a:visited{
+    color: #2c2c2c;
+}
+
+.kontakty2{
+    height: 35px;
+    width: 320px;
+}
+
+.copyright{
+    text-align: right;
+    height: 35px;
+    padding-right: 20px;
+}
