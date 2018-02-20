@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+.background{
+    position: absolute;
+}
+                                /*HEADER*/
+
+
+.logo{
+    position: relative; top: 130px; left: 80px;
+}
+
+.zagolovok p{
+    position: relative; left: 148px; top: 130px;
+    color: #cfcfcf;
+    font-size: 17px;
+    font-family: Tahoma, Arial, sans-serif;
+}
+.Contacts{
+    position: relative; right: 88px; top: 40px;
+    float: right;
+    color: #cfcfcf;
+    font-size: 12px;
+    font-family: Tahoma, Arial, sans-serif;
+}
+
+                                /*CONTENT*/
+
+.Content p{
+    color: #cfcfcf;
+    font-size: 17px;
+    font-family: Tahoma, Arial, sans-serif;
+}
+
+.India{
+    position: relative; top: 270px; left: 182px;
+    margin: -105px;
+    width: 267px;
+}
+
+.India img{
+    border: 3px solid grey;
+}
+
+.India p{
+    padding-left: 112px;
+}
+.Nepal{
+    position: relative; top: 165px; left: 600px;
+    margin: -105px;
+    width: 267px;
+}
+
+.Nepal img{
+    border: 3px solid grey;
+}
+
+.Nepal p{
+    padding-left: 113px;
+}
+
+.Tibet{
+    position: relative; top: 60px; left: 1013px;
+    margin: -105px;
+    width: 267px;
+}
+
+.Tibet img{
+    border: 3px solid grey;
+}
+
+.Tibet p{
+    padding-left: 113px;
+}
+
+.Bhutan{
+    position: relative; top: 300px; left: 183px;
+    margin: -105px;
+    width: 267px;
+}
+
+.Bhutan img{
+    border: 3px solid grey;
+}
+
+.Bhutan p{
+    padding-left: 107px;
+}
+
+.SriLanka{
+    position: relative; top: 195px; left: 600px;
+    margin: -105px;
+    width: 267px;
+}
+
+.SriLanka img{
+    border: 3px solid grey;
+}
+
+.SriLanka p{
+    padding-left: 107px;
+}
+
+.Maldives{
+    position: relative; top: 90px; left: 1013px;
+    margin: -105px;
+    width: 267px;
+}
+
+.Maldives img{
+    border: 3px solid grey;
+}
+
+.Maldives p{
+    padding-left: 104px;
+}
+
+                                    /*FOOTER*/
+
+.Footer{
+    position: relative; top: 400px; left: 505px;
+}
+
+.Footer p{
+    color: #cfcfcf;
+    font-size: 15px;
+    font-family: Tahoma, Arial, sans-serif;
+}
