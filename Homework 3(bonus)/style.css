@@ -9,6 +9,7 @@ body{
 
 .background{
     position: absolute;
+    width: 100%;
 }
                                 /*HEADER*/
 
@@ -53,7 +54,7 @@ body{
     padding-left: 112px;
 }
 .Nepal{
-    position: relative; top: 165px; left: 600px;
+    position: relative; top: 165px; left: 648px;
     margin: -105px;
     width: 267px;
 }
@@ -67,7 +68,7 @@ body{
 }
 
 .Tibet{
-    position: relative; top: 60px; left: 1013px;
+    position: relative; top: 60px; left: 1106px;
     margin: -105px;
     width: 267px;
 }
@@ -95,7 +96,7 @@ body{
 }
 
 .SriLanka{
-    position: relative; top: 195px; left: 600px;
+    position: relative; top: 195px; left: 648px;
     margin: -105px;
     width: 267px;
 }
@@ -109,7 +110,7 @@ body{
 }
 
 .Maldives{
-    position: relative; top: 90px; left: 1013px;
+    position: relative; top: 90px; left: 1106px;
     margin: -105px;
     width: 267px;
 }
@@ -125,7 +126,7 @@ body{
                                     /*FOOTER*/
 
 .Footer{
-    position: relative; top: 400px; left: 505px;
+    position: relative; top: 400px; left: 555px;
 }
 
 .Footer p{

@@ -3,15 +3,19 @@
     padding: 0;
 }
 
+body{
+    width: 1349px;
+}
+
 .block{
-    position: absolute; left: 100px; right: 150px;
+    position: absolute; left: 145px; right: 150px;
 
 }
 
                            /*HEADER*/
 
 .logo{
-    position: relative; top: 45px; left: 163px;
+    position: relative; top: 45px; left: 208px;
 }
 
 .menu ul{
@@ -30,7 +34,7 @@
 .menu li{
     list-style-type: none;
     float: left;
-    position: relative; left: 143px; top: 60px;
+    position: relative; left: 188px; top: 60px;
     padding-top: 10px;
     font-size: 15px;
     font-family: Microsoft YaHei;
@@ -70,7 +74,7 @@
                                   /*SIDEBAR*/
 
 .Sidebar{
-    position: absolute; top: 210px; left: 158px;
+    position: absolute; top: 210px; left: 203px;
 }
 
 tr, td{
@@ -99,13 +103,13 @@ tr, td{
                                    /*Content*/
 
 .bicycle{
-    position: absolute; top: 212px; right: 153px;
+    position: absolute; top: 212px; right: 192px;
     border: 1px solid black;
     padding: 50px 100px;
 }
 
 .Content p{
-    position: absolute; top: 660px; left: 410px; right: 157px;
+    position: absolute; top: 660px; left: 455px; right: 157px;
     font-size: 13.33px;
     font-family: Microsoft YaHei;
     color: #656363;
@@ -120,7 +124,7 @@ tr, td{
 .Footer .menu2 li{
     list-style-type: none;
     float: left;
-    position: relative; left: 158px; top: 800px;
+    position: relative; left: 203px; top: 800px;
     padding-top: 10px;
     font-size: 14px;
     font-family: Microsoft YaHei;
